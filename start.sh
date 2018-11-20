@@ -1,6 +1,6 @@
-export SECRET_KEY='bigdaddy'
+set SECRET_KEY ='Piecekeep'
 
-export MAIL_USERNAME='vynnellee@gmail.com'
-export MAIL_PASSWORD='rock1ville'
+set MAIL_USERNAME ='vynnellee@gmail.com'
+set MAIL_PASSWORD ='rock1ville'
 
-python3.7 manage.py server
+python manage.py server
